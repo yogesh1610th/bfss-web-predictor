@@ -1,0 +1,1 @@
+Run locally: py -3.12 -m pip install -r requirements.txt then py -3.12 -m streamlit run app.py. For other devices, deploy this folder to a Python/Streamlit cloud host.
